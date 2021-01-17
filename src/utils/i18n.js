@@ -94,8 +94,8 @@ export const i18nMap = {
     skip_ads: "Hoppa",
   },
   tr_TR: {
-    next_epi: "Sıradaki",
-    skip_intro: "İntro’yu Atla",
+    next_epi: "Sıradaki ",
+    skip_intro: "Jeneriği Atla",
     skip_recap: "Özeti Atla",
   },
   ru_RU: {
